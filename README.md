@@ -1,4 +1,4 @@
-# attAppFrontEnd
+# AttAppFrontEnd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
@@ -16,6 +16,13 @@ Run `ng serve --open` for a dev server. It will automatically open `http://local
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+
+[Set up Backend first](https://github.com/Ziyang-Wang/AttendanceAppBackend)
+
+##Last But Not The Least
+Need to resolve browser cross origin request blocked issue
+[Check out example plugin for Chrome](https://chrome.google.com/webstore/detail/cross-domain-cors/mjhpgnbimicffchbodmgfnemoghjakai?hl=en-US)
 
 
 ## Further help
